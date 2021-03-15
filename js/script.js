@@ -5,4 +5,3 @@ slide.init();
 
 slide.changeSlides(0);
 slide.activePrevSlide();
-slide.activeNextSlide();
